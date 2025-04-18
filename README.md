@@ -40,6 +40,15 @@ This project optimizes an email marketing campaign for an e-commerce site, predi
 
 ## demo Graph 
 
+![image](https://github.com/user-attachments/assets/62d3ac4f-aee2-44e3-a9bc-c7664c8aedc0)
+
+
+![image](https://github.com/user-attachments/assets/53952871-1002-4002-9347-8df31b2bded4)
+
+
+![image](https://github.com/user-attachments/assets/4eb212c4-1260-4d45-86ef-929caf834658)
+
+
 ![newplot](https://github.com/user-attachments/assets/167622af-22fd-4f7a-b473-7a9544c9d08d)
 
 ![image](https://github.com/user-attachments/assets/a80554c0-7c43-4089-90dd-d23fa139d98f)
