@@ -1,6 +1,10 @@
 # Enhanced-Email-Marketing-Campaign-Analysis
 This project optimizes an email marketing campaign for an e-commerce site, predicting click-through rates using Random Forest and XGBoost models. It includes advanced features like hyperparameter tuning, SHAP interpretability, interactive visualizations, A/B testing simulation, and decile analysis.
 
+
+![pic_1](https://github.com/user-attachments/assets/53065181-d986-4f91-a5ad-b33f6ef26ef4)
+
+
 ## Project Structure
 - `Enhanced_Email_Campaign_Analysis.ipynb`: Main Jupyter notebook with analysis.
 - `email_table.csv`: Email metadata.
