@@ -36,5 +36,20 @@ This project optimizes an email marketing campaign for an e-commerce site, predi
 - Personalized emails may improve click-through rates (A/B test results).
 - Targeting top deciles captures most clicks efficiently.
 
+
+
+## demo Graph 
+
+![newplot](https://github.com/user-attachments/assets/167622af-22fd-4f7a-b473-7a9544c9d08d)
+
+![image](https://github.com/user-attachments/assets/a80554c0-7c43-4089-90dd-d23fa139d98f)
+
+![image](https://github.com/user-attachments/assets/8ee0d5c4-0eed-47b7-b218-14008440d81a)
+
+![image](https://github.com/user-attachments/assets/4846d800-1d53-478a-ab27-28065db903e9)
+
+![image](https://github.com/user-attachments/assets/c8da3f97-3b86-4dc9-b0eb-f7f37da50eb8)
+
+
 ## Author
 [Shivam Dubey]
